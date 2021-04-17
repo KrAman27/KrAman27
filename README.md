@@ -19,7 +19,8 @@ I'm Full Stack development Enthusiast and technical Blogger
 📙 My Blog Articles
 
 <!-- BLOG-ARTICLES-LIST:START -->
-
+- [Web Design Vs Web Development](https://amankr.hashnode.dev/web-design-vs-web-development)
+- [Best Resources of C++ and python for Beginners](https://amankr.hashnode.dev/best-resources-of-c-and-python-for-beginners)
 <!-- BLOG-ARTICLES-LIST:END -->
  
  ▶[ ... blogs to read](https://amankr.hashnode.dev)
