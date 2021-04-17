@@ -25,11 +25,7 @@ I'm Full Stack Web Development Enthusiast and technical Blogger
 
  ▶[ ... more Hashnode Blogs](https://amankr.hashnode.dev)
 
-
-<!-- DEV-BLOG-LIST:START -->
-<!-- DEV-BLOG-LIST:END -->
-
- ▶[ ... more Dev.to Blogs](https://dev.to/kraman27/)
+ ▶[ ... Dev.to Blogs](https://dev.to/kraman27/)
  
  ***
  
